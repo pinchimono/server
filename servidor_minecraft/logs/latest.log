@@ -1,0 +1,57 @@
+[09:43:44] [ServerMain/ERROR]: Failed to load properties from file: server.properties
+java.nio.file.NoSuchFileException: server.properties
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106) ~[?:?]
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111) ~[?:?]
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:261) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:379) ~[?:?]
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:431) ~[?:?]
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:420) ~[?:?]
+	at java.base/java.nio.file.Files.newInputStream(Files.java:159) ~[?:?]
+	at apr.b(SourceFile:62) ~[server-1.21.jar:?]
+	at apo.a(SourceFile:141) ~[server-1.21.jar:?]
+	at app.<init>(SourceFile:12) ~[server-1.21.jar:?]
+	at net.minecraft.server.Main.main(SourceFile:114) ~[server-1.21.jar:?]
+	at net.minecraft.bundler.Main.lambda$run$0(Main.java:54) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[09:43:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:43:45] [ServerMain/INFO]: No existing world data, creating new world
+[09:43:45] [ServerMain/INFO]: Loaded 1290 recipes
+[09:43:45] [ServerMain/INFO]: Loaded 1399 advancements
+[09:43:46] [Server thread/INFO]: Starting minecraft server version 1.21
+[09:43:46] [Server thread/INFO]: Loading properties
+[09:43:46] [Server thread/INFO]: Default game type: SURVIVAL
+[09:43:46] [Server thread/INFO]: Generating keypair
+[09:43:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:43:46] [Server thread/INFO]: Using epoll channel type
+[09:43:46] [Server thread/INFO]: Preparing level "world"
+[09:43:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:43:52] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[09:43:52] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[09:43:52] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[09:43:53] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[09:43:53] [Worker-Main-2/INFO]: Preparing spawn area: 16%
+[09:43:54] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[09:43:55] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[09:43:55] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[09:43:55] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[09:43:56] [Server thread/INFO]: Time elapsed: 4228 ms
+[09:43:56] [Server thread/INFO]: Done (9.578s)! For help, type "help"
+[09:45:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[09:45:18] [Server thread/INFO]: ip<--[HERE]
+[09:50:59] [User Authenticator #1/INFO]: UUID of player Pogelconstructor is e94e07b0-e807-4dac-bd3c-4d8b8fd4f488
+[09:50:59] [Server thread/INFO]: Pogelconstructor[/100.107.175.51:64955] logged in with entity id 23 at (3.5, 63.0, -2.5)
+[09:50:59] [Server thread/INFO]: Pogelconstructor joined the game
+[09:53:17] [Server thread/INFO]: Pogelconstructor lost connection: Disconnected
+[09:53:17] [Server thread/INFO]: Pogelconstructor left the game
+[09:53:21] [Server thread/INFO]: Stopping the server
+[09:53:21] [Server thread/INFO]: Stopping server
+[09:53:21] [Server thread/INFO]: Saving players
+[09:53:21] [Server thread/INFO]: Saving worlds
+[09:53:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:53:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:53:55] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:53:55] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

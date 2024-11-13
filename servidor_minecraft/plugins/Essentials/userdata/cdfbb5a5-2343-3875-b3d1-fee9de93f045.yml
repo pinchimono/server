@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.223.145.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667603885772
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667603897868
+  login: 1667600493443
+money: '0'
+last-account-name: VenitoPro
+logoutlocation:
+  world: 2f952d93-0c84-402c-b499-861bd173f683
+  world-name: world
+  x: -5405.253345921207
+  y: 69.0
+  z: 1753.300000011921
+  yaw: 128.39178466796875
+  pitch: -0.2999730110168457
+lastlocation:
+  world: 2f952d93-0c84-402c-b499-861bd173f683
+  world-name: world
+  x: -5399.070409202871
+  y: 65.0
+  z: 1764.242202958506
+  yaw: 105.15132904052734
+  pitch: 11.400134086608887

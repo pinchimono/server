@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.223.37.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1699608766656
+  login: 1699601071099
+money: '0'
+last-account-name: McMacizo
+lastlocation:
+  world: 46fbe8d4-0a68-42ea-93d2-123d4f3a3e7e
+  world-name: world_the_end
+  x: 54.488817873295936
+  y: 62.24918707874468
+  z: -6.383462308400819
+  yaw: 85.48506164550781
+  pitch: 18.535310745239258
+logoutlocation:
+  world: 46fbe8d4-0a68-42ea-93d2-123d4f3a3e7e
+  world-name: world_the_end
+  x: 16.97576540388665
+  y: 64.0
+  z: 14.519561118324976
+  yaw: 126.02207946777344
+  pitch: 20.30133819580078

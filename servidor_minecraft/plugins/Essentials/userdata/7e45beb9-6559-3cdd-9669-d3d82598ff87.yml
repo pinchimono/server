@@ -1,0 +1,53 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.236.74.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1668488436034
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1668488543071
+  login: 1668485545706
+money: '0'
+last-account-name: yagamoki
+logoutlocation:
+  world: 2f952d93-0c84-402c-b499-861bd173f683
+  world-name: world
+  x: 197.74267318415323
+  y: 250.0
+  z: -1065.3201115370098
+  yaw: 32.249725341796875
+  pitch: 17.69997215270996
+lastlocation:
+  world: 2f952d93-0c84-402c-b499-861bd173f683
+  world-name: world
+  x: 296.7124295150326
+  y: 47.344084842587726
+  z: -1013.4580512581424
+  yaw: 136.3515625
+  pitch: 13.499984741210938
+mail:
+- legacy: false
+  read: false
+  message: ando probando esta mamada ahi avisame si jala
+  sender-name: Pogelconstructor
+  sender-uuid: fb181569-2fe4-30e8-bd36-455c93d9c6b0
+  timestamp: 1666852903732
+  expire: 0
+- legacy: false
+  read: false
+  message: asdlfkajsdflaksj
+  sender-name: Pogelconstructor
+  sender-uuid: fb181569-2fe4-30e8-bd36-455c93d9c6b0
+  timestamp: 1666852890941
+  expire: 0

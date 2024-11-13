@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.223.50.201
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1667603239921
+  login: 1667600443914
+money: '0'
+last-account-name: .Crismin01
+logoutlocation:
+  world: 2f952d93-0c84-402c-b499-861bd173f683
+  world-name: world
+  x: -5427.2046
+  y: 70.0
+  z: 1746.399
+  yaw: 89.9781494140625
+  pitch: 33.598785400390625

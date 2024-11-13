@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.236.75.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707466104511
+  login: 1707464321892
+money: '0'
+last-account-name: .SoyAngyuwu
+lastlocation:
+  world: 49426a79-2bbc-4cc6-b72c-c3a3908e640c
+  world-name: world
+  x: 2326.514
+  y: 70.61396
+  z: 9.970507
+  yaw: -84.99853515625
+  pitch: 1.55926513671875
+logoutlocation:
+  world: 49426a79-2bbc-4cc6-b72c-c3a3908e640c
+  world-name: world
+  x: 2325.9077
+  y: 70.0
+  z: 39.695564
+  yaw: 111.83917236328125
+  pitch: 30.314910888671875

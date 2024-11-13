@@ -1,0 +1,79 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.0.116
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1667590346400
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730838856064
+  login: 1730838818558
+money: '0'
+last-account-name: Pogelconstructor
+logoutlocation:
+  world: c56747be-4bdb-4090-8aa3-0195b21ddf93
+  world-name: world
+  x: 25.69999998807907
+  y: 72.0
+  z: 22.95224786061474
+  yaw: -53.098663330078125
+  pitch: 11.550003051757812
+lastlocation:
+  world: f5b7ace6-8c90-4bd4-bbc1-69ccc7917821
+  world-name: world_the_end
+  x: 18.818061752444223
+  y: 87.0
+  z: -3050.034116167328
+  yaw: 171.6351318359375
+  pitch: 18.899639129638672
+homes:
+  home:
+    world: c56747be-4bdb-4090-8aa3-0195b21ddf93
+    world-name: world
+    x: 2882.959991032922
+    y: 65.0
+    z: 1361.8782851987082
+    yaw: 151.50131225585938
+    pitch: 22.953414916992188
+  casita:
+    world: 49426a79-2bbc-4cc6-b72c-c3a3908e640c
+    world-name: world
+    x: 2881.786218564875
+    y: 64.0
+    z: 1358.268863718318
+    yaw: -84.274169921875
+    pitch: 15.531906127929688
+  portal:
+    world: 49426a79-2bbc-4cc6-b72c-c3a3908e640c
+    world-name: world
+    x: 312.69999998807907
+    y: -24.0
+    z: -1472.6596043006125
+    yaw: 89.39848327636719
+    pitch: 13.662307739257812
+  nether:
+    world: 49426a79-2bbc-4cc6-b72c-c3a3908e640c
+    world-name: world
+    x: 64.4795898326953
+    y: -17.0
+    z: -1555.6324782016711
+    yaw: 87.69091796875
+    pitch: 21.505504608154297
+mail:
+- legacy: false
+  read: true
+  message: alskjdfklas
+  sender-name: Pogelconstructor
+  sender-uuid: fb181569-2fe4-30e8-bd36-455c93d9c6b0
+  timestamp: 1666852910147
+  expire: 0
